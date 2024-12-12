@@ -25,7 +25,7 @@ Here are the repositories we have currently under our organization:
 
 ---
 
-### 2. **[guess-game](https://github.com/codEdu-Collective/guess-game)**
+### 2. **[guess-number-game](https://codedu-collective.github.io/guess-number-game/)**
 
 - **Description**: A fun and interactive guessing game built with **HTML**, **CSS**, and **JavaScript**. Users can try to guess random words or numbers, offering an entertaining way to improve problem-solving and logical thinking.
 - **Features**:
@@ -67,6 +67,18 @@ Here are the repositories we have currently under our organization:
 ### 7. **[SSN Validator](https://github.com/codEdu-Collective/SSN-Validator)**
 
 - **Description**: This is a simple SSN Validator application built with **HTML**, **CSS**, and **JavaScript**. It checks whether a Social Security Number (SSN) is valid according to standard formatting rules and displays appropriate messages based on user input.
+
+
+
+### 8. **[secret-number-game](https://codedu-collective.github.io/secret-number-game/)**
+
+-**Description**:The Secret Number game is an engaging and challenging guessing game where players try to uncover a hidden number within a specified range. It's a perfect way to test your guessing skills and have fun at the same time. The game is simple, intuitive, and suitable for players of all ages.
+-**Features**:
+- Random Number Generation: Each game starts with a new secret number, providing endless replayability.
+- User-Friendly Interface: The game features a clean and intuitive design that makes it easy to play.
+- Responsive Design: Play seamlessly on any device, whether it's a desktop, tablet, or smartphone.
+- Immediate Feedback: Receive instant feedback on your guesses to help you narrow down the possibilities.
+- Customizable Range: Set your own range for the secret number, making the game as easy or as challenging as you like.
 
 ---
 
