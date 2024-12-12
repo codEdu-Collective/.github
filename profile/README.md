@@ -73,12 +73,13 @@ Here are the repositories we have currently under our organization:
 ### 8. **[secret-number-game](https://codedu-collective.github.io/secret-number-game/)**
 
 -**Description**:The Secret Number game is an engaging and challenging guessing game where players try to uncover a hidden number within a specified range. It's a perfect way to test your guessing skills and have fun at the same time. The game is simple, intuitive, and suitable for players of all ages.
+
 -**Features**:
-- Random Number Generation: Each game starts with a new secret number, providing endless replayability.
-- User-Friendly Interface: The game features a clean and intuitive design that makes it easy to play.
-- Responsive Design: Play seamlessly on any device, whether it's a desktop, tablet, or smartphone.
-- Immediate Feedback: Receive instant feedback on your guesses to help you narrow down the possibilities.
-- Customizable Range: Set your own range for the secret number, making the game as easy or as challenging as you like.
+ - Random Number Generation: Each game starts with a new secret number, providing endless replayability.
+ - User-Friendly Interface: The game features a clean and intuitive design that makes it easy to play.
+ - Responsive Design: Play seamlessly on any device, whether it's a desktop, tablet, or smartphone.
+ - Immediate Feedback: Receive instant feedback on your guesses to help you narrow down the possibilities.
+ - Customizable Range: Set your own range for the secret number, making the game as easy or as challenging as you like.
 
 ---
 
